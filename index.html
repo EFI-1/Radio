@@ -2,30 +2,38 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>My Radiojar Station</title>
+  <title>My Radio Station</title>
   <style>
     body {
+      margin: 0;              /* remove default body margin */
+      padding: 0;             /* remove default body padding */
       font-family: Arial, sans-serif;
-      text-align: center;
-      background-color: #f4f4f4;
-      margin: 0;
-      padding: 50px;
+      text-align: center;     /* center content horizontally */
     }
-    h1 {
-      color: #333;
+    .top-container {
+      margin-top: 0;          /* ensure no gap at the top */
+      padding-top: 10px;      /* small breathing space */
     }
-    iframe {
-      border: none;
+    .counter-container {
+      margin-top: 20px;       /* space between player and counter */
     }
   </style>
 </head>
 <body>
-  <h1>Welcome to My Radio Station</h1>
-  <!-- Radiojar Player Embed -->
-  <iframe src="https://www.radiojar.com/widget/radio/dz93m1q1qxcwv/player/?trackinfo&show_now&autoplay_off"
-          width="320"
-          height="360"
-          scrolling="no">
-  </iframe>
+  <div class="top-container">
+    <h1>Welcome to My Radio Station</h1>
+    <!-- Radiojar Player Embed -->
+    <iframe src="https://www.radiojar.com/widget/radio/dz93m1q1qxcwv/player/?trackinfo&show_now&autoplay_off"
+            width="320"
+            height="360"
+            scrolling="no">
+    </iframe>
+    <!-- Centered Hit Counter -->
+    <div class="counter-container">
+      <br><img alt="Hits" src="https://hits.sh/efi-1.github.io/Radio.svg?style=plastic&label=VISITORS&color=555555&labelColor=e6ffff"/>
+    </div>
+  </div>
 </body>
 </html>
+
+
