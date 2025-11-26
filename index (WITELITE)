@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>INTERNET RADIO</title>
+  <!-- Import Google Sans Code -->
+  <link href="https://fonts.googleapis.com/css2?family=Google+Sans+Code:wght@400;600;800&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #ffffff;
+      --bg-soft: #f7f7f7;
+      --text: #111111;
+      --text-soft: #333333;
+      --gold: #FFD700;
+      --gold-soft: rgba(255, 215, 0, 0.45);
+      --gold-glow: rgba(255, 215, 0, 0.30);
+      --gold-glow-strong: rgba(255, 215, 0, 0.55);
+      --border: #e6e6e6;
+      --shadow: rgba(0, 0, 0, 0.06);
+    }
+
+    /* Global */
+    html, body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: 'Google Sans Code', sans-serif;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+      margin: 0;
+      padding: 40px;
+    }
+
+    /* Subtle vertical rhythm on light theme */
+    body {
+      background: linear-gradient(180deg, #ffffff 0%, #ffffff 40%, #fcfcfc 100%);
+    }
+
+    /* Gold headers with glow tuned for white bg */
+    header, h2 {
+      font-weight: 800;
+      text-transform: uppercase;
+      letter-spacing: 2px;
+      color: var(--text);
+      position: relative;
+    }
+
+    /* Decorative gold underline + soft glow */
+    header {
+      font-size: 2.2em;
+      margin-bottom: 20px;
+      padding-bottom: 12px;
+      border-bottom: 3px solid var(--gold);
+      box-shadow:
+        0 6px 0 -3px var(--gold-soft),
+        0 0 18px var(--gold-glow);
+    }
+
+    /* Station card */
+    .station-card {
+      background: linear-gradient(145deg, var(--bg) 0%, var(--bg-soft) 100%);
+      border: 2px solid var(--border);
+      border-radius: 16px;
+      padding: 26px;
+      margin: 26px auto;
+      max-width: 460px;
+      box-shadow:
+        0 4px 16px var(--shadow),
+        0 0 14px var(--gold-glow);
+    }
+
+    h2 {
+      color: var(--text-soft);
+      margin-top: 0;
+      margin-bottom: 16px;
+      text-shadow:
+        0 0 8px var(--gold-glow),
+        0 1px 0 #ffffff;
+    }
+
+    /* Player */
+    iframe {
+      border: 2px solid var(--gold);
+      width: 100%;
+      max-width: 360px;
+      height: 380px;
+      border-radius: 12px;
+      background: #ffffff;
+      box-shadow:
+        0 0 18px var(--gold-glow-strong),
+        0 8px 22px var(--shadow);
+    }
+
+    /* Controls cluster */
+    .controls {
+      margin-bottom: 22px;
+      display: inline-block;
+      background: #ffffff;
+      border: 2px solid var(--gold);
+      border-radius: 30px;
+      padding: 8px 14px;
+      box-shadow:
+        0 0 14px var(--gold-glow),
+        0 6px 14px var(--shadow);
+    }
+
+    .btn {
+      display: inline-block;
+      margin: 0 8px;
+      font-size: 1.2em;
+      color: var(--text);
+      background: #ffffff;
+      padding: 8px 12px;
+      border-radius: 22px;
+      border: 1px solid var(--border);
+      box-shadow:
+        inset 0 0 6px rgba(0, 0, 0, 0.04),
+        0 0 8px var(--gold-glow);
+      font-weight: 600;
+      transition: transform 0.08s ease, box-shadow 0.12s ease;
+      cursor: default; /* purely visual for now */
+    }
+
+    .btn:hover {
+      transform: translateY(-1px);
+      box-shadow:
+        0 0 10px var(--gold-glow-strong),
+        0 6px 14px var(--shadow);
+    }
+
+    .counter-container {
+      margin-top: 20px;
+    }
+    .counter-container img {
+      display: block;
+      margin: 8px auto;
+      background: #ffffff;
+      padding: 8px;
+      border-radius: 8px;
+      border: 1px solid var(--gold);
+      box-shadow:
+        inset 0 0 10px var(--gold-glow),
+        0 4px 12px var(--shadow);
+    }
+
+    footer {
+      margin-top: 40px;
+      font-size: 0.95em;
+      color: var(--text-soft);
+      padding-top: 14px;
+      border-top: 2px solid var(--border);
+      box-shadow: 0 -6px 12px var(--shadow);
+    }
+    footer a {
+      color: var(--text);
+      text-decoration: none;
+      font-weight: 600;
+      border-bottom: 2px solid var(--gold);
+      padding-bottom: 2px;
+      box-shadow: 0 4px 0 -3px var(--gold-soft);
+    }
+    footer a:hover {
+      color: var(--text);
+      text-decoration: none;
+      box-shadow:
+        0 0 10px var(--gold-glow),
+        0 6px 0 -3px var(--gold-soft);
+    }
+
+    /* Light focus rings for accessibility */
+    a:focus,
+    .btn:focus,
+    iframe:focus {
+      outline: 3px solid var(--gold);
+      outline-offset: 3px;
+      box-shadow: 0 0 14px var(--gold-glow-strong);
+    }
+
+    /* Reduce motion preference */
+    @media (prefers-reduced-motion: reduce) {
+      .btn {
+        transition: none;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Media Controls at top -->
+  <div class="controls" aria-label="Media controls">
+    <span class="btn" role="button" aria-label="Previous">⏮</span>
+    <span class="btn" role="button" aria-label="Play/pause">⏯</span>
+    <span class="btn" role="button" aria-label="Next">⏭</span>
+  </div>
+
+  <header>EFM INTERNET RADIO</header>
+
+  <!-- Example Station Card -->
+  <div class="station-card" role="region" aria-label="Station player">
+    <h2>Radio</h2>
+    <iframe
+      title="Radiojar player"
+      src="https://www.radiojar.com/widget/radio/dz93m1q1qxcwv/player/?trackinfo&show_now&autoplay_off"
+      scrolling="yes">
+    </iframe>
+
+    <div class="counter-container" aria-label="Visit counters">
+      <a href="https://hits.sh/efi-1.github.io/Radio/" aria-label="Daily hits">
+        <img alt="Daily Hits" src="https://hits.sh/efi-1.github.io/Radio.svg?view=today-total"/>
+      </a>
+      <a href="https://hits.sh/efi-1.github.io/Radio/" aria-label="Total hits">
+        <img alt="Total Hits" src="https://hits.sh/efi-1.github.io/Radio.svg"/>
+      </a>
+    </div>
+  </div>
+
+  <footer>
+    2025 <a href="https://tinyurl.com/saturdayatthelivedocs">SATLD [RADIO (1)]</a>
+  </footer>
+</body>
+</html>
