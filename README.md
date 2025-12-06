@@ -1,8 +1,6 @@
-<br>
 THE MAIN EFI-1 Radio [1] Github Page.
 <br>
 FREE EFM INTERNET RADIO STREAM URLs:
-<br>
 <br>
 https://efi-1.github.io/Radio/
 <br>
