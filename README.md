@@ -4,8 +4,8 @@ README About the links: "1) You can use the direct-stream (Shoutcast) URL for yo
 <br>
 <u>STREAM URLs</u>
 <br>
-🧲 https://n01.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI3owEAqSwFii7FVVOG0g
+1🧲 https://n01.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI3owEAqSwFii7FVVOG0g
 <br>
-🧲 https://n11.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI2QGIAKN2VqdOaFdeFHw
+2🧲 https://n11.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI2QGIAKN2VqdOaFdeFHw
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
+3🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
