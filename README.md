@@ -8,8 +8,6 @@ https://efi-1.github.io/Radio/
 <br>
 https://efi-1.github.io/_Radio-2/
 <br>
-https://github.com/EFI-1/_Radio-2
-<br>
 🧲 https://n01.radiojar.com/dz93m1q1qxcwv.m4a
 <br>
 🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMDpvkAVVOJ60I374194A
@@ -31,6 +29,10 @@ https://github.com/EFI-1/_Radio-2
 🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
 <br>
 🧲 https://n0b.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI6M28A61gEKOub2hDZBQ
+<br>
+https://github.com/EFI-1/_Radio-2
+<br>
+https://github.com/EFI-1/RADIORD
 <br>
 <br>
 2025 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD)
