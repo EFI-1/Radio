@@ -8,7 +8,7 @@ https://efi-1.github.io/_Radio-2/
 <br>
 🧲 (MAIN ONE) https://n01.radiojar.com/dz93m1q1qxcwv.m4a
 <br>
-📀🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvME-K4AVv_0ajOceu9_sg [COMMENTARY HERE: "My interpretation of the alphanumeric, and I'm not really knowledgeable about the homosexual languages today... ...But I would say it says AAA+ music video ('mv') ME! KeVv _0ajOceu9_sg. ('ITERATION '_0ajOceu9_sg' OF 'Kev''<)."
+📀🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvME-K4AVv_0ajOceu9_sg [COMMENTARY HERE: "My interpretation of the alphanumeric, and I'm not really knowledgeable about the homosexual languages today... ...But I would say it says AAA+ music video ('mv') ME! KeVv _0ajOceu9_sg. ('ITERATION '_0ajOceu9_sg' OF 'Kev''<).", "ALPHAENUMERITIZING Pyramid of the American People: COMPLETE (SEASONS 1-200+)"
 <br>
 🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMDpvkAVVOJ60I374194A
 <br>
