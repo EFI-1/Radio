@@ -26,7 +26,7 @@ CURRENT PROJECT = "📀🧲" PREFIX
 <br>
 🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvszIvUAnN9Lj9y6cvDN4w
 <br>
-<s>https://n41.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsyAKUAYv1t75CtBpdYvQ</s>
+STRUCKTHROUGH ~~https://n41.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsyAKUAYv1t75CtBpdYvQ~~
 <br>
 🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsxDrAAd8N_uqIqBDdwuQ
 <br>
