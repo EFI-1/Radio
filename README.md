@@ -14,7 +14,7 @@ NEWEST TOPMOST
 <br>
 CURRENT PROJECT = "📀🧲" PREFIX
 <br>
-📀🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs5a8sAE8LObM1YfU8BOw
+📀🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs5a8sAE8LObM1YfU8BOw ["Dud won't read The Crap Times."1
 <br>
 🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs4HrAAB-4fLevfekMpBQ
 <br>
