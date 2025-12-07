@@ -10,7 +10,17 @@ NEWEST TOPMOST
 <br>
 🧲 (MAIN ONE) https://n01.radiojar.com/dz93m1q1qxcwv.m4a
 <br>
-📀🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsxDrAAd8N_uqIqBDdwuQ
+📀🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs2hYUA1GCUsJ7MTPridQ ["'Tok', the new bisexual hispanic dating appfire by the Sandnugget World Order... ...DOWNLOAD IT TO YOUR BRAIN ... TODAY!! ... 'YOU DO HAVE A BRAIN DON'T YOU?'"
+<br>
+🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs10gsAv9e5wcOiFT5Dmw ["Dud won't read the crap."
+<br>
+🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsztzEA56UyoNt0VsOK9w ["['There's caca, 'caca?', CACA, there'1..."; "'Now be a good janny and' clean that shit."; "BUT... WHO.... WERE THE JANISSARIES??"; XD: "...THE JANISSARIES..."
+<br>
+🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvszIvUAnN9Lj9y6cvDN4w
+<br>
+<s>https://n41.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsyAKUAYv1t75CtBpdYvQ</s>
+<br>
+🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsxDrAAd8N_uqIqBDdwuQ
 <br>
 🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsVUiQAgSp6PceStktcGw
 <br>
