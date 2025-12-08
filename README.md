@@ -15,6 +15,7 @@ NEWEST TOPMOST
 CURRENT PROJECT = "📀🧲" PREFIX
 <br>
 📀🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs5a8sAE8LObM1YfU8BOw ["Dud won't read The Crap Times.", "Do you even realize how close we were to becoming fully bisexual? All that the SWO needed was a preamble/handshake everyone would have agreed to and you would have had WITELITE Eurasians crawling all over this fine country. We nipped it (The Faggotry [A1 NEW BOSSFIGHT APPROACHES1) *cough "QUEERNESS"* in the bud."1
+<!--
 <br>
 🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs4HrAAB-4fLevfekMpBQ
 <br>
@@ -59,6 +60,7 @@ STRUCKTHROUGH ~~https://n41.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABm
 🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
 <br>
 🧲 https://n0b.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI6M28A61gEKOub2hDZBQ
+-->
 <br>
 https://github.com/EFI-1/_Radio-2
 <br>
@@ -66,3 +68,74 @@ https://github.com/EFI-1/RADIORD
 <br>
 <br>
 2025 EFI-1 Radio 1 S A N D B O X AT THE LIVE!DOCS (TinyURL /SATLD) 1
+# GFM Markdown Styling Demo
+Here are the main text styles you can use in GitHub Flavored Markdown:
+- **Bold:** `**bold text**` → **bold text**
+- *Italic:* `*italic text*` → *italic text*
+- ~~Strikethrough~~: `~~strikethrough~~` → ~~strikethrough~~
+- <u>Underline</u>: `<u>underline</u>` → <u>underline</u>
+## Combined Styles
+You can also mix them:
+- **Bold + Italic:** `***bold italic***` → ***bold italic***
+- **Bold + Strikethrough:** `~~**bold strike**~~` → ~~**bold strike**~~
+- *Italic + Underline:* `<u>*italic underline*</u>` → <u>*italic underline*</u>
+---
+Bold + Italic combo (visual emphasis): Sometimes people simulate underline by combining styles:
+markdown
+***text***
+→ text …but this is just bold+italic, not a true underline.
+⚠️ Notes
+<u> works reliably in GitHub READMEs, issues, and pull requests.
+For accessibility, underline is often reserved for links, so use it sparingly to avoid confusion.
+That’s it — a quick reference you can drop into your README.md to test how GitHub renders each style.
+<!--
+Even More GitHub Flavored Markdown (GFM)
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+Bold: **BOLD TEXT** → bold text
+Italic: *italic text* → italic text
+<u>UNDERLINE</u>
+Strikethrough: ~~text~~ → text
+<sub>Subscript</sub>: <sub>text</sub> → H<sub>2</sub>O
+<sup>Superscript</sup>: <sup>text</sup> → X<sup>2</sup>
+Unordered Lists
+- Item
+- Item
+  - Nested item
+Ordered Lists
+1. First
+2. Second
+   1. Nested
+> This is a blockquote
+Code
+"Inline versus Block"
+Inline: `code` → code
+Block:
+```language
+function test() {
+  console.log("Hello World");
+}
+Misc.
+### Horizontal Rule
+```markdown
+Images
+---
+[Link text](https://example.com)
+![Alt text](image.png)
+Tables
+| Column 1 | Column 2 |
+|----------|----------|
+| Data A   | Data B   |
+Task Lists
+- [x] Completed
+- [ ] Not completed
+Emojis
+:smile: :rocket: :tada:
+Mentions & References
+@username → mentions a GitHub user
+#123 → references an issue or pull request
+-->
