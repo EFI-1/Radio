@@ -48,7 +48,7 @@
 
     /* Wide responsive cards for Schedule + Podcasts */
     .wide-card {
-      max-width: 900px;
+      max-width: 700px; /* narrower than before */
       width: 100%;
     }
     .wide-card iframe {
@@ -133,11 +133,12 @@
   <div class="station-card">
     <h2>INTERNET Radio PLAYER</h2>
 
+    <!-- Correct AzuraCast embed snippet -->
     <iframe 
-      src="https://a3.asurahosting.com/public/efi-1_radio/embed?theme=light"
+      src="https://a3.asurahosting.com/public/efi-1_radio/embed"
       frameborder="0"
       allowtransparency="true"
-      style="width: 100%; max-width: 320px; max-height: 540px; border: 0; border-radius: 10px;">
+      style="width: 100%; min-height: 150px; border: 0; border-radius: 10px;">
     </iframe>
 
     <div class="counter-container">
@@ -168,18 +169,18 @@
 
   <!-- Schedule / Calendar -->
   <div class="station-card wide-card">
-    <h2 style="font-size: 1.6em;">Broadcast Schedule</h2>
+    <h2 style="font-size: 1em;">Broadcast Schedule</h2>
     <iframe 
       src="https://a3.asurahosting.com/public/efi-1_radio/schedule/embed?theme=dark"
       frameborder="0"
       allowtransparency="true"
-      style="min-height: 800px; border: 0;">
+      style="min-height: 500px; border: 0;">
     </iframe>
   </div>
 
   <!-- Podcasts Player -->
   <div class="station-card wide-card">
-    <h2 style="font-size: 1.6em;">Podcasts</h2>
+    <h2 style="font-size: 1em;">Podcasts</h2>
     <iframe 
       src="https://a3.asurahosting.com/public/efi-1_radio/podcasts?embed=true&theme=dark"
       frameborder="0"
