@@ -8,60 +8,60 @@ https://efi-1.github.io/_Radio-2/
 <br>
 NEWEST TOPMOST
 <br>
-🧲🧲 https://stream.radiojar.com/dz93m1q1qxcwv.m4a
+🧲🧲 https://stream.radiojar.com/dz94m1q11xjwv.m4a
 <br>
-🧲 (MAIN ONE) https://n01.radiojar.com/dz93m1q1qxcwv.m4a
+🧲 (MAIN ONE) https://n01.radiojar.com/dz94m1q11xjwv.m4a
 <br>
 https://www.youtube.com/@EFI-1_IA_Radio-1
 <br>
 CURRENT PROJECT = "📀🧲" PREFIX
 <br>
-📀🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs5a8sAE8LObM1YfU8BOw ["Dud won't read The Crap Times.", "Do you even realize how close we were to becoming fully bisexual? All that the SWO needed was a preamble/handshake everyone would have agreed to and you would have had WITELITE Eurasians crawling all over this fine country. We nipped it (The Faggotry [A1 NEW BOSSFIGHT APPROACHES1) *cough "QUEERNESS"* in the bud."1
+📀🧲 https://n07.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvs5a8sAE8LObM1YfU8BOw ["Dud won't read The Crap Times.", "Do you even realize how close we were to becoming fully bisexual? All that the SWO needed was a preamble/handshake everyone would have agreed to and you would have had WITELITE Eurasians crawling all over this fine country. We nipped it (The Faggotry [A1 NEW BOSSFIGHT APPROACHES1) *cough "QUEERNESS"* in the bud."1
 <!--
 <br>
-🧲 https://n07.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs4HrAAB-4fLevfekMpBQ
+🧲 https://n07.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvs4HrAAB-4fLevfekMpBQ
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs2hYUA1GCUsJ7MTPridQ ["'Tok', the new bisexual hispanic dating appfire by the Sandnugget World Order... ...DOWNLOAD IT TO YOUR BRAIN ... TODAY!! ... 'YOU DO HAVE A BRAIN DON'T YOU?'"
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvs2hYUA1GCUsJ7MTPridQ ["'Tok', the new bisexual hispanic dating appfire by the Sandnugget World Order... ...DOWNLOAD IT TO YOUR BRAIN ... TODAY!! ... 'YOU DO HAVE A BRAIN DON'T YOU?'"
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvs10gsAv9e5wcOiFT5Dmw ["Dud won't read the crap."
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvs10gsAv9e5wcOiFT5Dmw ["Dud won't read the crap."
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsztzEA56UyoNt0VsOK9w ["['There's caca, 'caca?', CACA, there'1..."; "'Now be a good janny and' clean that shit."; "BUT... WHO.... WERE THE JANISSARIES??"; XD: "...THE JANISSARIES..."
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvsztzEA56UyoNt0VsOK9w ["['There's caca, 'caca?', CACA, there'1..."; "'Now be a good janny and' clean that shit."; "BUT... WHO.... WERE THE JANISSARIES??"; XD: "...THE JANISSARIES..."
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvszIvUAnN9Lj9y6cvDN4w
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvszIvUAnN9Lj9y6cvDN4w
 <br>
-STRUCKTHROUGH ~~https://n41.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsyAKUAYv1t75CtBpdYvQ~~
+STRUCKTHROUGH ~~https://n41.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvsyAKUAYv1t75CtBpdYvQ~~
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsxDrAAd8N_uqIqBDdwuQ
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvsxDrAAd8N_uqIqBDdwuQ
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvsVUiQAgSp6PceStktcGw
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvsVUiQAgSp6PceStktcGw
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvbik_UArzDBstKMvGDxYw [#Terorfantom's UNDUE THOUGHTS (ARE SURELY) INCOMING...
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvbik_UArzDBstKMvGDxYw [#Terorfantom's UNDUE THOUGHTS (ARE SURELY) INCOMING...
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMvhOIAzVz-Wei3JJnfRQ [0200 A FEW MOMENTS LATER (AFTER THE REALIZATION THAT SOMEONE USING ALPHANUMERIC CODES FOR EVADING *ANYTHING* CAN EASILY BE BROKEN BY PUTTING A MAGNET EMOJI OR ANY EMOJI, ANY RECOGNIZABLE PATTERN IN FRONT OF IT OR AT THE END[?) (A RECOGNIZABLE PATTERN BECOMES THE WAY TO IMAGINE HANDLING SOMEONE'S BROKEN LIFE OF ALPHANUMERIC CODES WHICH HELPED THEM EVADE THAT ONE TIME; THE POINT IS YOU BREAK THAT BROKEN LIFE INTO The Sky, WTC IN The Sky, THE WITELITE HOLE IN The Sky, Sky High, YOU CAN BASICALLY VISUALIZE MANIPULATING SOMEONE BASED ON THEIR DAILY ALPHANUMERIC CODES AND-)
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMvhOIAzVz-Wei3JJnfRQ [0200 A FEW MOMENTS LATER (AFTER THE REALIZATION THAT SOMEONE USING ALPHANUMERIC CODES FOR EVADING *ANYTHING* CAN EASILY BE BROKEN BY PUTTING A MAGNET EMOJI OR ANY EMOJI, ANY RECOGNIZABLE PATTERN IN FRONT OF IT OR AT THE END[?) (A RECOGNIZABLE PATTERN BECOMES THE WAY TO IMAGINE HANDLING SOMEONE'S BROKEN LIFE OF ALPHANUMERIC CODES WHICH HELPED THEM EVADE THAT ONE TIME; THE POINT IS YOU BREAK THAT BROKEN LIFE INTO The Sky, WTC IN The Sky, THE WITELITE HOLE IN The Sky, Sky High, YOU CAN BASICALLY VISUALIZE MANIPULATING SOMEONE BASED ON THEIR DAILY ALPHANUMERIC CODES AND-)
 <br>
-[A FEW SECONDS LATER... 🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMRsCYAhcl-2ViWImwKdw ["BEBE. Sip the title.", LISTENING TO Planet APEK Radio: "Oh yeah, I remember that playlist ('Hippie Keys & That Vocalist', the Soundcloud capstone music)... ...BRING IN THE KRAKEN!! (COPIES HIPPIE KEYS & VOCALS TO RADIO STATION FOR IMMEDIATE RELEASE OF SAID KRAKEN)"
+[A FEW SECONDS LATER... 🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMRsCYAhcl-2ViWImwKdw ["BEBE. Sip the title.", LISTENING TO Planet APEK Radio: "Oh yeah, I remember that playlist ('Hippie Keys & That Vocalist', the Soundcloud capstone music)... ...BRING IN THE KRAKEN!! (COPIES HIPPIE KEYS & VOCALS TO RADIO STATION FOR IMMEDIATE RELEASE OF SAID KRAKEN)"
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvME-K4AVv_0ajOceu9_sg [COMMENTARY HERE: "My interpretation of the alphanumeric, and I'm not really knowledgeable about the homosexual languages today... ...But I would say it says AAA+ music video ('mv') ME! KeVv _0ajOceu9_sg. ('ITERATION '_0ajOceu9_sg' OF 'Kev''<).", "ALPHAENUMERITIZING Pyramid of the American People: COMPLETE (SEASONS 1-200+)", A FEW SECONDS LATER: "CAN WE PLEASE FINALLY GET SOME PRIVACY?! MALARKY!!!!!!!!!!!!!!", "('NOW AGAIN,') I'M NOT FAMILIAR WITH ANY OF THE HOMOSEXUAL LANGUAGES TODAY!", "STOP ACCOSTING ME BRO!"; "Who's to say where 'What Did They Do To You, Smithy?' ('Smithy') from the Shooting of Smith will end up in the '-BRO!' Hall of Fame. He is going to end up in the '-BRO!' Hall of Fame and potentially everytime someone yells 'BRO!' when they are dealing with a difficult situation. The ranking: hard to predict but he'll be a JUGGERNAUT ('NOW')."
+🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvME-K4AVv_0ajOceu9_sg [COMMENTARY HERE: "My interpretation of the alphanumeric, and I'm not really knowledgeable about the homosexual languages today... ...But I would say it says AAA+ music video ('mv') ME! KeVv _0ajOceu9_sg. ('ITERATION '_0ajOceu9_sg' OF 'Kev''<).", "ALPHAENUMERITIZING Pyramid of the American People: COMPLETE (SEASONS 1-200+)", A FEW SECONDS LATER: "CAN WE PLEASE FINALLY GET SOME PRIVACY?! MALARKY!!!!!!!!!!!!!!", "('NOW AGAIN,') I'M NOT FAMILIAR WITH ANY OF THE HOMOSEXUAL LANGUAGES TODAY!", "STOP ACCOSTING ME BRO!"; "Who's to say where 'What Did They Do To You, Smithy?' ('Smithy') from the Shooting of Smith will end up in the '-BRO!' Hall of Fame. He is going to end up in the '-BRO!' Hall of Fame and potentially everytime someone yells 'BRO!' when they are dealing with a difficult situation. The ranking: hard to predict but he'll be a JUGGERNAUT ('NOW')."
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMDpvkAVVOJ60I374194A
+🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMDpvkAVVOJ60I374194A
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMCkGoA1zY2GbZGi6zynw
+🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMCkGoA1zY2GbZGi6zynw
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMCNa0AEb2U1KORiVQpnw
+🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMCNa0AEb2U1KORiVQpnw
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMBQxkA_0ELzy47q81lGg
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMBQxkA_0ELzy47q81lGg
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMBEt4AvY2r1Y2cKZXaZw
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMBEt4AvY2r1Y2cKZXaZw
 <br>
-🧲 https://n06.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvMAwLAAyI9YAF_BNSpqsg
+🧲 https://n06.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvMAwLAAyI9YAF_BNSpqsg
 <br>
-🧲 https://n01.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI3owEAqSwFii7FVVOG0g
+🧲 https://n01.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvI3owEAqSwFii7FVVOG0g
 <br>
-🧲 https://n11.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI2QGIAKN2VqdOaFdeFHw
+🧲 https://n11.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvI2QGIAKN2VqdOaFdeFHw
 <br>
-🧲 https://n0c.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
+🧲 https://n0c.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvI36HcAUMdNnEHOcj8-9A
 <br>
-🧲 https://n0b.radiojar.com/dz93m1q1qxcwv.m4a?rj-ttl=5&rj-tok=AAABmvI6M28A61gEKOub2hDZBQ
+🧲 https://n0b.radiojar.com/dz94m1q11xjwv.m4a?rj-ttl=5&rj-tok=AAABmvI6M28A61gEKOub2hDZBQ
 -->
 <br>
 https://github.com/EFI-1/_Radio-2
